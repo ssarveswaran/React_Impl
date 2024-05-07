@@ -1,0 +1,25 @@
+/* index.css */
+
+nav {
+  background-color: #333; /* Dark background color for the navigation */
+}
+
+ol {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none; /* Remove default list styling */
+  padding: 10px; /* Remove default padding */
+
+}
+
+
+/* Styling links */
+a {
+  color: white; /* Text color for links */
+  text-decoration: none; /* Remove underline */
+  padding: 10px; /* Add padding for better clickable area */
+}
+
+a:hover {
+  background-color: #555; /* Darker background color on hover */
+}
